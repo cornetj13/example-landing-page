@@ -79,6 +79,10 @@ button {
   margin: 5px;
 }
 
+#buffer {
+  height: 60px;
+}
+
 footer {
   position: absolute;
   bottom: 0;
